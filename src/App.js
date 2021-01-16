@@ -1,8 +1,8 @@
 import React from 'react'
-import placeholder from './components/placeholder'
+import AnimatedCountdown from './components/AnimatedCountdown'
 
 const App = () => {
-  return <placeholder />
+  return <AnimatedCountdown />
 }
 
 export default App
